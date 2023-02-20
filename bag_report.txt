@@ -1,0 +1,15 @@
+number bag001 сapital.com",
+title: Footer редирект на соц.сеть instagram страница не найдена
+severity: minor;
+priority: low;
+discription: При нажатии иконки instagram cтраница не найдена;
+environment: Prod_001;
+steps to reproduce:
+     1: открыть сайт capital.com локализация EN;
+     2: проскролить_страницу до блока footer;
+     3: в блоке_соц.сети кликнуть на иконку instagram; 
+     4: редерикт на сайт instagram.com аккаунт capital.com не найден;                 
+                            
+actual result: при клике на икунку instagram происходит редирект на instagram.com аккаунт capital.com не найден;
+expected result: при клике на икунку instagram происходит редирект на instagram.com_аккаунт_capital.com_отображается;
+attachments: screencast.mp4;
