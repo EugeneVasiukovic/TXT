@@ -3,7 +3,7 @@ title: Footer редирект на соц.сеть instagram страница �
 severity: minor;
 priority: low;
 discription: При нажатии иконки instagram cтраница не найдена;
-environment: Prod_001;
+environment: chroom 109;
 steps to reproduce:
      1: открыть сайт capital.com локализация EN;
      2: проскролить_страницу до блока footer;
